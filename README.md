@@ -16,3 +16,6 @@ The code and its step by step was written in portuguese so i will organize this 
 ![Screenshot](screenshot.png)
 
 
+ATT:despite the quality of the data not being so good, having nothing about location in the features we obtained a score of 0.74. I consider it a victory because in relation to houses the location is extremely important and can change the value of the houses drastically.
+
+Thank You. 
